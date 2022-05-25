@@ -2,6 +2,7 @@
   "dependencies": {
     "dotenv": "^16.0.1",
     "express.js": "^1.0.0",
+    "inquirer": "^8.2.4",
     "json": "^11.0.0",
     "package": "^1.0.1",
     "sequelize": "^6.20.0"
