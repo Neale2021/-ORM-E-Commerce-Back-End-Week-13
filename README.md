@@ -1,6 +1,11 @@
 
 <h1 align="center">(ORM): E-Commerce Back End 👋</h1>
-  
+## Link to repositary
+https://github.com/Neale2021/-ORM-E-Commerce-Back-End-Week-13 
+
+## Link to walk through videos
+
+
 ## Table of Contents
 - [Tasks](#Tasks)
 - [UserStory](#UserStory)
@@ -22,4 +27,3 @@ Neale
 Find me on GitHub: [Neale2021](https://github.com/Neale2021)<br />
 <br />
 ✉️ Email me : neale@adflexmarketing.com.au<br /><br />
-    
