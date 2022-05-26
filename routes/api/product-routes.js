@@ -44,12 +44,12 @@ Product.findOne ({
     }
   ]
 })
-.then(dbProdctData => {
-  if (!dbProdctData) {
+.then(dbProductData => {
+  if (!dbProductData) {
     res.status(404).json({message: 'No Product found with this is'});
     return;
   }
-  res.json(dbProdctData);
+  res.json(dbProductData);
 })
 .catch(err => {
   console.log(err);
