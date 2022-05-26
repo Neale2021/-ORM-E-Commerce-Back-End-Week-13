@@ -13,6 +13,7 @@ https://github.com/Neale2021/-ORM-E-Commerce-Back-End-Week-13
 
 ## Link to walk through videos
 
+https://youtu.be/_fiTq_oTzKE
 
 
 ## Tasks
